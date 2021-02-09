@@ -1,0 +1,57 @@
+        body {
+            background-color: aliceblue;
+        }
+        
+        #background {
+            background-color: darkgray;
+            border: 1px solid darkgray;
+            border-radius: 30px;
+            margin-top: 20px;
+        }
+        
+        #main-body {
+            padding-left: 100px;
+            padding-top: 30px;
+        }
+        
+        #matching-part {
+            padding-top: 120px;
+            padding-right: 150px;
+        }
+        
+        #logo {
+            font-family: sans-serif;
+            color: rgb(255, 255, 255);
+            background-color: rgb(9, 93, 119);
+            border: 1px solid rgb(9, 93, 119);
+            border-radius: 10px;
+        }
+        
+        #navigation {
+            background-color: rgb(161, 183, 223);
+            height: 127px;
+            color: white;
+            border: 1px solid aliceblue;
+            border-radius: 30px;
+            margin-top: 10px;
+            padding-bottom: 60px;
+        }
+        
+        #fav-icon {
+            margin-top: 0px;
+            margin-left: 30px;
+        }
+        
+        #header {
+            background-color: cadetblue;
+            border: 1px solid cadetblue;
+            border-radius: 30px;
+            margin-top: 20px;
+            height: 200px;
+            padding-top: 25px;
+        }
+        
+        #header h2 {
+            font-family: Impact;
+            color: rgb(99, 3, 22);
+        }
